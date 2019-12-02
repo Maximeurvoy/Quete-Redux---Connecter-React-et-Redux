@@ -1,0 +1,3 @@
+{
+	"payload": "[{\"type\":\"ADD\"},{\"type\":\"REMOVE\"},{\"type\":\"REMOVE\"},{\"type\":\"ADD\"},{\"type\":\"ADD\"},{\"type\":\"ADD\"},{\"type\":\"REMOVE\"},{\"type\":\"REMOVE\"},{\"type\":\"REMOVETEN\"},{\"type\":\"REMOVETEN\"},{\"type\":\"ADDTEN\"},{\"type\":\"ADDTEN\"},{\"type\":\"RESET\"},{\"type\":\"RESET\"},{\"type\":\"RESET\"},{\"type\":\"RESET\"},{\"type\":\"ADDTEN\"},{\"type\":\"REMOVETEN\"},{\"type\":\"REMOVETEN\"},{\"type\":\"REMOVETEN\"},{\"type\":\"REMOVETEN\"},{\"type\":\"REMOVETEN\"},{\"type\":\"REMOVETEN\"},{\"type\":\"REMOVETEN\"},{\"type\":\"RESET\"}]"
+}
